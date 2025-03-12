@@ -3,8 +3,6 @@
     <img src="https://skillicons.dev/icons?i=git,css,python,cs,js,react,typescript" />
   </a>
 </p>
-## Hi there 👋
-
 
 **AndreLuisdaSilva/AndreLuisdaSilva**
 
