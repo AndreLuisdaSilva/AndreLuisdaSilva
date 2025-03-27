@@ -65,4 +65,3 @@ Profissional com mais de 2 anos de experiência em desenvolvimento de software e
 ## Buscando
 
 Oportunidades para aplicar meus conhecimentos em projetos inovadores e desafiadores, utilizando minhas habilidades em desenvolvimento Fullstack e Engenharia de Dados.
-Principais mudanças:Título da Seção: Modifiquei o título da seção de "Habilidades" para "Tecnologias & Áreas de Atuação".Estrutura da Seção:Criei uma estrutura que lista as principais áreas de atuação (Frontend, Backend, DevOps, Outras).Dentro de cada área, listei as tecnologias relevantes.Organização: Agrupei as tecnologias mencionadas (Git, CSS, Python, C#, JS, React, TypeScript) nas áreas correspondentes.Coerência: Mantive a lista de habilidades consistente e organizada.
