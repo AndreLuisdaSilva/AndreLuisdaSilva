@@ -2,7 +2,7 @@
 
 ## Programador Fullstack
 
-Profissional com mais de 2 anos de experiência em desenvolvimento de software e engenharia de dados. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto e cursando Pós-graduação em Desenvolvimento Full-Stack (PUCRS).
+Profissional com mais de 2 anos de experiência em desenvolvimento de software e engenharia de dados. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto e cursando pós-graduação em Desenvolvimento Full-Stack (PUCRS).
 
 ## Experiência
 
