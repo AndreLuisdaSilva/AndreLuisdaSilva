@@ -1,49 +1,68 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,python,cs,js,react,typescript" />
-  </a>
-</p>
-
-**AndreLuisdaSilva/AndreLuisdaSilva**
+# AndreLuisdaSilva/AndreLuisdaSilva
 
 ## Programador Fullstack
-Profissional com mais de 2 anos de experiência em desenvolvimento de software e engenharia de dados. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto, com foco em:  
 
-Experiência:  
+Profissional com mais de 2 anos de experiência em desenvolvimento de software e engenharia de dados. Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Ribeirão Preto e cursando Pós-graduação em Desenvolvimento Full-Stack (PUCRS).
 
-Engenharia de Dados: Preparação de datasets, processos ETL, Python e AWS.  
+## Experiência
 
-Desenvolvimento Fullstack: Manutenção e otimização de aplicações web internas (HTML, CSS, JavaScript) na Câmara Municipal.  
+**Engenharia de Dados:**
 
-Formação:  
+* Preparação de datasets
+* Processos ETL
+* Python e AWS
 
-Pós-graduação em Desenvolvimento Full-Stack (PUCRS) - Especialização em React, Node.js, TypeScript, PostgreSQL e MongoDB.  
+**Desenvolvimento Fullstack:**
 
-Certificações em Engenharia de Dados (AWS) e Desenvolvimento Front-end (Alura).  
+* Utilizar NestJS com Prisma e PostgreSQL.
+* Criar autenticação utilizando JWT.
+* Criar as entidades e serviços.
+* Implementar CRUD completo para tarefas.
+* Criar endpoint.
+* Implementar tratamento de erros adequado.
+* Criar documentação da API usando Swagger.
+* React + Vite.
+* Usar React Query ou Axios para consumo da API.
+* Estilizar utilizando TailwindCSS.
 
-Habilidades:  
+## Formação
 
-Backend: APIs REST, SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Arquiteturas Clean e Microservices.  
+* **Pós-graduação em Desenvolvimento Full-Stack (PUCRS):**
+    * Especialização em React, Node.js, TypeScript, PostgreSQL e MongoDB.
+* **Graduação:** Análise e Desenvolvimento de Sistemas (FATEC Ribeirão Preto)
+* Certificações em Engenharia de Dados (AWS) e Desenvolvimento Front-end (Alura).
 
-DevOps: CI/CD (AWS CodePipeline, Github Actions), Monitoramento (AWS CloudWatch), Cloud (AWS), Infra como Código (AWS CloudFormation).  
+## Habilidades
 
-Frontend: ReactJS.  
+**Tecnologias & Áreas de Atuação:**
 
-Outras: Segurança de Redes, Administração de Banco de Dados, C#, SQL.  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,python,cs,js,react,typescript" />
+  </a>
+</p>
 
-Buscando:  
+* **Frontend:**
+    * ReactJS
+    * HTML, CSS, JavaScript
+* **Backend:**
+    * APIs REST
+    * SQL (MySQL, PostgreSQL, Oracle)
+    * NoSQL (MongoDB)
+    * Arquiteturas Clean e Microservices
+    * .NET Core, C#, Node.js
+    * Administração de Banco de Dados
+    * SQL
+* **DevOps:**
+    * CI/CD (AWS CodePipeline, Github Actions)
+    * Monitoramento (AWS CloudWatch)
+    * Cloud (AWS)
+    * Infra como Código (AWS CloudFormation)
+* **Outras:**
+    * Segurança de Redes
+    
 
-Oportunidades para aplicar meus conhecimentos em projetos inovadores e desafiadores, utilizando minhas habilidades em desenvolvimento Fullstack e Engenharia de Dados.  
+## Buscando
 
-Hard Skills:  
-
-.NET Core  
-
-React  
-  
-Node.js  
-
-Amazon Web Services (AWS)  
-
-Architectural Design  
-
+Oportunidades para aplicar meus conhecimentos em projetos inovadores e desafiadores, utilizando minhas habilidades em desenvolvimento Fullstack e Engenharia de Dados.
+Principais mudanças:Título da Seção: Modifiquei o título da seção de "Habilidades" para "Tecnologias & Áreas de Atuação".Estrutura da Seção:Criei uma estrutura que lista as principais áreas de atuação (Frontend, Backend, DevOps, Outras).Dentro de cada área, listei as tecnologias relevantes.Organização: Agrupei as tecnologias mencionadas (Git, CSS, Python, C#, JS, React, TypeScript) nas áreas correspondentes.Coerência: Mantive a lista de habilidades consistente e organizada.
