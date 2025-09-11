@@ -44,13 +44,13 @@ Profissional com mais de 2 anos de experiência em desenvolvimento de software e
 
 * **Frontend:**
     * ReactJS
-    * HTML, CSS, JavaScript
+    * HTML, CSS, JavaScript, TypeScript
 * **Backend:**
     * APIs REST
     * SQL (MySQL, PostgreSQL, Oracle)
     * NoSQL (MongoDB)
     * Arquiteturas Clean e Microservices
-    * .NET Core, C#, Node.js
+    * .NET Core, C#, Node.js, Nestjs
     * Administração de Banco de Dados
     * SQL
 * **DevOps:**
