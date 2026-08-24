@@ -1,4 +1,12 @@
-# AndreLuisdaSilva
+<h1 align="center">
+  👋 Olá, eu sou André Luis
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Fullstack;Engenheiro+de+Dados;NestJS+%7C+React+%7C+TypeScript;Node.js+%7C+PostgreSQL+%7C+AWS" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Desenvolvedor Fullstack | Engenheiro de Dados
 
